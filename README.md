@@ -58,5 +58,6 @@ O objetivo futuro é integrar o sistema em uma plataforma web, onde o usuário p
 **Elton Lopes**  
 Estudante autodidata e entusiasta em automação, IA e fintechs
 [LinkedIn](https://www.linkedin.com/in/elton-lopes-832a75110/)
+
 [Outros projetos no GitHub](https://github.com/Japa-arch?tab=repositories)
 
