@@ -5,7 +5,7 @@ import PyPDF2
 
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = 'uploads'
-GEMINI_API_KEY = "AIzaSyBtW3EGR3ORXazqo1rxz9V9GSIOFYnDrOY"  # Cole sua chave Gemini aqui
+GEMINI_API_KEY = "(INSERIR API KEY)"  # Cole sua chave Gemini aqui
 
 os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
 
@@ -57,4 +57,5 @@ def get_history():
     return jsonify(chat_history)
 
 if __name__ == '__main__':
+
     app.run(debug=True)
